@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T22:39:45.358037",
+  "last_updated": "2025-09-25T22:57:38.155518",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -28,12 +28,12 @@
     "netheritepot": {
       "testers": {
         "607752834540371991": {
-          "total_tests": 3,
-          "last_test": "2025-09-25T22:39:45.358037",
+          "total_tests": 4,
+          "last_test": "2025-09-25T22:57:38.155518",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "NA/SA | Waxthnomics",
           "rank": "member",
-          "last_updated": "2025-09-25T22:39:45.358037"
+          "last_updated": "2025-09-25T22:57:38.155518"
         }
       }
     },
