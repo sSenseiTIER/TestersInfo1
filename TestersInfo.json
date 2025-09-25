@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T22:57:38.155518",
+  "last_updated": "2025-09-25T23:43:03.884343",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -22,6 +22,14 @@
           "name": "Tiliwilis @ For Help",
           "rank": "verified",
           "last_updated": "2025-09-25T21:49:26.028608"
+        },
+        "834555196541108246": {
+          "total_tests": 1,
+          "last_test": "2025-09-25T23:43:03.884343",
+          "first_test": "2025-09-25T23:43:03.884343",
+          "name": "AtKyrie",
+          "rank": "verified",
+          "last_updated": "2025-09-25T23:43:03.884343"
         }
       }
     },
