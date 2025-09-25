@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T21:26:24.034951",
+  "last_updated": "2025-09-25T21:26:31.703505",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -12,11 +12,11 @@
       "testers": {
         "607752834540371991": {
           "total_tests": 2,
-          "last_test": "2025-09-25T21:26:24.034951",
+          "last_test": "2025-09-25T21:26:31.703505",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "NA/SA | Waxthnomics",
           "rank": "member",
-          "last_updated": "2025-09-25T21:26:24.034951"
+          "last_updated": "2025-09-25T21:26:31.703505"
         }
       }
     },
