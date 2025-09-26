@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T23:43:03.884343",
+  "last_updated": "2025-09-26T00:04:28.137785",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -16,12 +16,12 @@
           "last_updated": "2025-09-25T22:19:16.544210"
         },
         "1068594443441164328": {
-          "total_tests": 1,
-          "last_test": "2025-09-25T21:49:26.028608",
+          "total_tests": 2,
+          "last_test": "2025-09-26T00:04:28.137785",
           "first_test": "2025-09-25T21:49:26.028608",
           "name": "Tiliwilis @ For Help",
           "rank": "verified",
-          "last_updated": "2025-09-25T21:49:26.028608"
+          "last_updated": "2025-09-26T00:04:28.137785"
         },
         "834555196541108246": {
           "total_tests": 1,
