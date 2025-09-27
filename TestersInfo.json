@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27T22:00:56.535864",
+  "last_updated": "2025-09-27T22:15:18.235341",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -38,6 +38,14 @@
           "name": "NA | Adrigonskibidi",
           "rank": "verified",
           "last_updated": "2025-09-27T21:04:51.906974"
+        },
+        "1326703062240329908": {
+          "total_tests": 1,
+          "last_test": "2025-09-27T22:15:18.235341",
+          "first_test": "2025-09-27T22:15:18.235341",
+          "name": "NA | NotEyes",
+          "rank": "verified",
+          "last_updated": "2025-09-27T22:15:18.235341"
         }
       }
     },
