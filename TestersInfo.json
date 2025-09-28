@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28T16:07:39.042174",
+  "last_updated": "2025-09-28T16:17:02.835511",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -8,12 +8,12 @@
     "vanilla": {
       "testers": {
         "1057428250961399808": {
-          "total_tests": 13,
-          "last_test": "2025-09-28T16:07:39.042174",
+          "total_tests": 14,
+          "last_test": "2025-09-28T16:17:02.835511",
           "first_test": "2025-09-25T21:29:35.508834",
           "name": "NA/SA | Yoperobaneade",
           "rank": "head",
-          "last_updated": "2025-09-28T16:07:39.042174"
+          "last_updated": "2025-09-28T16:17:02.835511"
         },
         "1068594443441164328": {
           "total_tests": 3,
