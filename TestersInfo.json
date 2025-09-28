@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28T02:08:37.604631",
+  "last_updated": "2025-09-28T02:48:18.579887",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -24,12 +24,12 @@
           "last_updated": "2025-09-27T22:00:56.535864"
         },
         "834555196541108246": {
-          "total_tests": 2,
-          "last_test": "2025-09-27T01:37:04.268618",
+          "total_tests": 3,
+          "last_test": "2025-09-28T02:48:18.579887",
           "first_test": "2025-09-25T23:43:03.884343",
           "name": "AtKyrie",
-          "rank": "member",
-          "last_updated": "2025-09-27T01:37:04.268618"
+          "rank": "verified",
+          "last_updated": "2025-09-28T02:48:18.579887"
         },
         "993682551518543883": {
           "total_tests": 1,
