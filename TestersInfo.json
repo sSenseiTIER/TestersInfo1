@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01T21:33:49.528742",
+  "last_updated": "2025-10-01T23:45:36.434104",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -78,6 +78,14 @@
           "name": "Andrew",
           "rank": "verified",
           "last_updated": "2025-10-01T21:33:49.528742"
+        },
+        "884104060431650856": {
+          "total_tests": 1,
+          "last_test": "2025-10-01T23:45:36.434104",
+          "first_test": "2025-10-01T23:45:36.434104",
+          "name": "SA | zzbtt",
+          "rank": "verified",
+          "last_updated": "2025-10-01T23:45:36.434104"
         }
       }
     },
