@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04T00:49:39.786506",
+  "last_updated": "2025-10-04T01:05:23.598263",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -92,12 +92,12 @@
     "netheritepot": {
       "testers": {
         "607752834540371991": {
-          "total_tests": 9,
-          "last_test": "2025-10-04T00:49:39.786506",
+          "total_tests": 10,
+          "last_test": "2025-10-04T01:05:23.598263",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "SA | FEDEWAX",
           "rank": "member",
-          "last_updated": "2025-10-04T00:49:39.786506"
+          "last_updated": "2025-10-04T01:05:23.598263"
         },
         "620119197216669706": {
           "total_tests": 3,
