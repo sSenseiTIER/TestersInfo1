@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04T22:38:55.766465",
+  "last_updated": "2025-10-04T22:59:38.473176",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -8,12 +8,12 @@
     "vanilla": {
       "testers": {
         "1057428250961399808": {
-          "total_tests": 26,
-          "last_test": "2025-10-04T22:38:55.766465",
+          "total_tests": 27,
+          "last_test": "2025-10-04T22:59:38.473176",
           "first_test": "2025-09-25T21:29:35.508834",
           "name": "Only Miami | Yoperobaneade",
           "rank": "head",
-          "last_updated": "2025-10-04T22:38:55.766465"
+          "last_updated": "2025-10-04T22:59:38.473176"
         },
         "1068594443441164328": {
           "total_tests": 3,
