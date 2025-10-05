@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-05T19:57:42.066274",
+  "last_updated": "2025-10-05T21:45:41.885383",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -32,12 +32,12 @@
           "last_updated": "2025-10-04T21:20:01.818863"
         },
         "993682551518543883": {
-          "total_tests": 1,
-          "last_test": "2025-09-27T21:04:51.906974",
+          "total_tests": 2,
+          "last_test": "2025-10-05T21:45:41.885383",
           "first_test": "2025-09-27T21:04:51.906974",
           "name": "NA | Adrigonskibidi",
           "rank": "verified",
-          "last_updated": "2025-09-27T21:04:51.906974"
+          "last_updated": "2025-10-05T21:45:41.885383"
         },
         "1326703062240329908": {
           "total_tests": 3,
