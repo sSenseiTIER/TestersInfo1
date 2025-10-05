@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04T23:52:37.907771",
+  "last_updated": "2025-10-05T06:48:00.403125",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -130,6 +130,14 @@
           "name": "SA | Bigcuts",
           "rank": "member",
           "last_updated": "2025-10-04T23:52:37.907771"
+        },
+        "1418836026381832233": {
+          "total_tests": 1,
+          "last_test": "2025-10-05T06:48:00.403125",
+          "first_test": "2025-10-05T06:48:00.403125",
+          "name": "NoSolote",
+          "rank": "member",
+          "last_updated": "2025-10-05T06:48:00.403125"
         }
       }
     },
