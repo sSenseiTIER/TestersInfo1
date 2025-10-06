@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T16:47:41.473156",
+  "last_updated": "2025-10-06T19:20:07.404887",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -48,12 +48,12 @@
           "last_updated": "2025-09-29T21:25:36.019301"
         },
         "913924891588325376": {
-          "total_tests": 6,
-          "last_test": "2025-10-05T22:21:51.601698",
+          "total_tests": 7,
+          "last_test": "2025-10-06T19:20:07.404887",
           "first_test": "2025-09-28T01:55:29.412840",
           "name": "NA | Diusikke",
           "rank": "verified",
-          "last_updated": "2025-10-05T22:21:51.601698"
+          "last_updated": "2025-10-06T19:20:07.404887"
         },
         "858367935814828092": {
           "total_tests": 1,
