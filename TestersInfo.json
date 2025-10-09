@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09T23:54:27.592799",
+  "last_updated": "2025-10-09T23:58:56.233906",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -182,6 +182,14 @@
           "name": "NA | Tedze_",
           "rank": "verified",
           "last_updated": "2025-10-09T23:54:27.592799"
+        },
+        "1326703062240329908": {
+          "total_tests": 1,
+          "last_test": "2025-10-09T23:58:56.233906",
+          "first_test": "2025-10-09T23:58:56.233906",
+          "name": "NA | DerekDeNanita",
+          "rank": "verified",
+          "last_updated": "2025-10-09T23:58:56.233906"
         }
       }
     }
