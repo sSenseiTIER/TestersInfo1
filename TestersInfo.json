@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11T19:13:42.156912",
+  "last_updated": "2025-10-11T21:10:26.955306",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -8,12 +8,12 @@
     "vanilla": {
       "testers": {
         "1057428250961399808": {
-          "total_tests": 39,
-          "last_test": "2025-10-09T02:19:47.748333",
+          "total_tests": 40,
+          "last_test": "2025-10-11T21:10:26.955306",
           "first_test": "2025-09-25T21:29:35.508834",
           "name": "Only Miami | KoTql_",
           "rank": "head",
-          "last_updated": "2025-10-09T02:19:47.748333"
+          "last_updated": "2025-10-11T21:10:26.955306"
         },
         "1068594443441164328": {
           "total_tests": 6,
