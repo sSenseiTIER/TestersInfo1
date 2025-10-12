@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T18:00:50.213733",
+  "last_updated": "2025-10-12T18:01:00.844609",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -202,14 +202,6 @@
           "name": "NA / Maxi",
           "rank": "member",
           "last_updated": "2025-10-12T17:40:44.881616"
-        },
-        "1416841887612014755": {
-          "total_tests": 1,
-          "last_test": "2025-10-12T18:00:50.213733",
-          "first_test": "2025-10-12T18:00:50.213733",
-          "name": "NA | Ovejino",
-          "rank": "member",
-          "last_updated": "2025-10-12T18:00:50.213733"
         }
       }
     },
@@ -254,6 +246,14 @@
           "name": "EU | SandraConFe",
           "rank": "verified",
           "last_updated": "2025-10-12T14:52:07.243427"
+        },
+        "1287130730383671388": {
+          "total_tests": 1,
+          "last_test": "2025-10-12T18:01:00.844609",
+          "first_test": "2025-10-12T18:01:00.844609",
+          "name": "EU | qvoh",
+          "rank": "verified",
+          "last_updated": "2025-10-12T18:01:00.844609"
         }
       }
     }
