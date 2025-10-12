@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T14:02:43.063386",
+  "last_updated": "2025-10-12T14:21:43.497118",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -186,6 +186,14 @@
           "name": "Dev | Ma abrime porfa",
           "rank": "member",
           "last_updated": "2025-10-12T00:17:01.592106"
+        },
+        "1287130730383671388": {
+          "total_tests": 1,
+          "last_test": "2025-10-12T14:21:43.497118",
+          "first_test": "2025-10-12T14:21:43.497118",
+          "name": "EU | qvoh",
+          "rank": "member",
+          "last_updated": "2025-10-12T14:21:43.497118"
         }
       }
     },
