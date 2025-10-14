@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T23:37:35.127305",
+  "last_updated": "2025-10-14T00:53:30.791665",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -172,12 +172,12 @@
           "last_updated": "2025-10-09T13:40:04.051357"
         },
         "1270951967895588884": {
-          "total_tests": 2,
-          "last_test": "2025-10-12T01:04:40.483155",
+          "total_tests": 3,
+          "last_test": "2025-10-14T00:53:30.791665",
           "first_test": "2025-10-11T23:19:06.094208",
           "name": "zTuss1ad1to (ONLY SA)",
           "rank": "member",
-          "last_updated": "2025-10-12T01:04:40.483155"
+          "last_updated": "2025-10-14T00:53:30.791665"
         },
         "823659261183262730": {
           "total_tests": 1,
