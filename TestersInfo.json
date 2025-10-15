@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T01:42:51.444816",
+  "last_updated": "2025-10-15T01:50:59.748861",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -204,12 +204,12 @@
           "last_updated": "2025-10-12T23:19:04.959810"
         },
         "1416841887612014755": {
-          "total_tests": 17,
-          "last_test": "2025-10-15T01:42:51.444816",
+          "total_tests": 18,
+          "last_test": "2025-10-15T01:50:59.748861",
           "first_test": "2025-10-12T18:00:50.213733",
-          "name": "NA | Ovejino",
+          "name": "NA | Ovejino  @ for eval",
           "rank": "member",
-          "last_updated": "2025-10-15T01:42:51.444816"
+          "last_updated": "2025-10-15T01:50:59.748861"
         },
         "1348153196346081294": {
           "total_tests": 1,
