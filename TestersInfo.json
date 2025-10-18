@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-18T22:42:35.076646",
+  "last_updated": "2025-10-18T22:55:36.572371",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -112,12 +112,12 @@
           "last_updated": "2025-10-10T03:28:56.461210"
         },
         "753322380323192914": {
-          "total_tests": 1,
-          "last_test": "2025-10-18T17:55:49.189971",
+          "total_tests": 2,
+          "last_test": "2025-10-18T22:55:36.572371",
           "first_test": "2025-10-18T17:55:49.189971",
           "name": "NA | juanoelnoob09",
           "rank": "verified",
-          "last_updated": "2025-10-18T17:55:49.189971"
+          "last_updated": "2025-10-18T22:55:36.572371"
         }
       }
     },
