@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-18T22:55:36.572371",
+  "last_updated": "2025-10-19T01:32:25.014046",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -278,6 +278,14 @@
           "name": "EU | SandraConFe",
           "rank": "verified",
           "last_updated": "2025-10-12T14:52:07.243427"
+        },
+        "1398121709726601309": {
+          "total_tests": 1,
+          "last_test": "2025-10-19T01:32:25.014046",
+          "first_test": "2025-10-19T01:32:25.014046",
+          "name": "SA | Diminuit",
+          "rank": "verified",
+          "last_updated": "2025-10-19T01:32:25.014046"
         }
       }
     }
