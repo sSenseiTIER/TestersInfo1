@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21T20:22:15.969562",
+  "last_updated": "2025-10-22T16:45:29.201065",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -118,6 +118,14 @@
           "name": "NA | juanoelnoob09",
           "rank": "verified",
           "last_updated": "2025-10-18T22:55:36.572371"
+        },
+        "1232054387564875791": {
+          "total_tests": 1,
+          "last_test": "2025-10-22T16:45:29.201065",
+          "first_test": "2025-10-22T16:45:29.201065",
+          "name": "sapanuv",
+          "rank": "verified",
+          "last_updated": "2025-10-22T16:45:29.201065"
         }
       }
     },
