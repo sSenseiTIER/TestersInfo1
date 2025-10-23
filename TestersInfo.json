@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23T19:20:29.814485",
+  "last_updated": "2025-10-23T21:44:10.345034",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -250,6 +250,14 @@
           "name": "EU-NA | LuPzii",
           "rank": "member",
           "last_updated": "2025-10-14T18:56:48.539174"
+        },
+        "1343637414023004220": {
+          "total_tests": 1,
+          "last_test": "2025-10-23T21:44:10.345034",
+          "first_test": "2025-10-23T21:44:10.345034",
+          "name": "NA/SA | @for help",
+          "rank": "member",
+          "last_updated": "2025-10-23T21:44:10.345034"
         }
       }
     },
