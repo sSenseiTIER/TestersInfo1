@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-24T21:06:07.725279",
+  "last_updated": "2025-10-25T01:52:02.282769",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -134,6 +134,14 @@
           "name": "NA | Hku9",
           "rank": "verified",
           "last_updated": "2025-10-23T19:20:29.814485"
+        },
+        "1365371835423653958": {
+          "total_tests": 1,
+          "last_test": "2025-10-25T01:52:02.282769",
+          "first_test": "2025-10-25T01:52:02.282769",
+          "name": "NA | X_FanDeAleswq_X",
+          "rank": "verified",
+          "last_updated": "2025-10-25T01:52:02.282769"
         }
       }
     },
