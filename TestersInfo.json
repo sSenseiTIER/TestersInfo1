@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-26T15:14:06.633607",
+  "last_updated": "2025-10-26T17:40:40.990055",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -150,6 +150,14 @@
           "name": "Nicow",
           "rank": "verified",
           "last_updated": "2025-10-26T03:43:23.314838"
+        },
+        "796531919294169088": {
+          "total_tests": 1,
+          "last_test": "2025-10-26T17:40:40.990055",
+          "first_test": "2025-10-26T17:40:40.990055",
+          "name": "Paulo.",
+          "rank": "member",
+          "last_updated": "2025-10-26T17:40:40.990055"
         }
       }
     },
