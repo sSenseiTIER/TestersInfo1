@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-28T19:37:25.040178",
+  "last_updated": "2025-10-28T19:47:07.934951",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -328,12 +328,12 @@
           "last_updated": "2025-10-19T18:08:44.609077"
         },
         "670534819536699395": {
-          "total_tests": 4,
-          "last_test": "2025-10-28T19:37:25.040178",
+          "total_tests": 5,
+          "last_test": "2025-10-28T19:47:07.934951",
           "first_test": "2025-10-12T14:02:43.063386",
           "name": "EU | SandraConFe",
           "rank": "verified",
-          "last_updated": "2025-10-28T19:37:25.040178"
+          "last_updated": "2025-10-28T19:47:07.934951"
         },
         "1398121709726601309": {
           "total_tests": 2,
