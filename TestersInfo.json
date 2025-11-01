@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-01T01:44:25.564446",
+  "last_updated": "2025-11-01T01:46:15.266327",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -160,12 +160,12 @@
           "last_updated": "2025-10-26T17:40:40.990055"
         },
         "936042255599415307": {
-          "total_tests": 7,
-          "last_test": "2025-11-01T01:44:25.564446",
+          "total_tests": 6,
+          "last_test": "2025-10-30T23:09:50.352851",
           "first_test": "2025-10-30T00:19:17.857381",
           "name": "NA | SA Styffy",
           "rank": "verified",
-          "last_updated": "2025-11-01T01:44:25.564446"
+          "last_updated": "2025-10-30T23:09:50.352851"
         },
         "823659261183262730": {
           "total_tests": 1,
@@ -306,6 +306,14 @@
           "name": "SA/NA | Icelow_99ms",
           "rank": "member",
           "last_updated": "2025-10-26T20:48:46.524746"
+        },
+        "1044342667091394580": {
+          "total_tests": 1,
+          "last_test": "2025-11-01T01:46:15.266327",
+          "first_test": "2025-11-01T01:46:15.266327",
+          "name": "NA | urExodo",
+          "rank": "member",
+          "last_updated": "2025-11-01T01:46:15.266327"
         }
       }
     },
