@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T01:39:38.097692",
+  "last_updated": "2025-11-05T02:19:48.720684",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -324,12 +324,12 @@
           "last_updated": "2025-11-02T15:14:26.696793"
         },
         "1404224305373384765": {
-          "total_tests": 2,
-          "last_test": "2025-11-03T21:09:24.808748",
+          "total_tests": 3,
+          "last_test": "2025-11-05T02:19:48.720684",
           "first_test": "2025-11-02T20:01:15.648344",
           "name": "SA/NA | FelixGodd",
           "rank": "member",
-          "last_updated": "2025-11-03T21:09:24.808748"
+          "last_updated": "2025-11-05T02:19:48.720684"
         }
       }
     },
