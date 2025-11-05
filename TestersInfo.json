@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T02:19:48.720684",
+  "last_updated": "2025-11-05T03:05:06.434969",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -160,12 +160,12 @@
           "last_updated": "2025-11-01T17:36:46.009889"
         },
         "936042255599415307": {
-          "total_tests": 23,
-          "last_test": "2025-11-04T23:05:13.640347",
+          "total_tests": 24,
+          "last_test": "2025-11-05T03:05:06.434969",
           "first_test": "2025-10-30T00:19:17.857381",
-          "name": "NA | SA | Styffy",
+          "name": "NA | Styffy",
           "rank": "verified",
-          "last_updated": "2025-11-04T23:05:13.640347"
+          "last_updated": "2025-11-05T03:05:06.434969"
         },
         "823659261183262730": {
           "total_tests": 1,
