@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T02:36:14.909611",
+  "last_updated": "2025-11-08T02:58:19.167977",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -308,12 +308,12 @@
           "last_updated": "2025-11-07T04:19:56.896324"
         },
         "981012292202287165": {
-          "total_tests": 3,
-          "last_test": "2025-11-08T02:36:14.909611",
+          "total_tests": 4,
+          "last_test": "2025-11-08T02:58:19.167977",
           "first_test": "2025-10-26T20:46:35.195373",
           "name": "SA/NA | Icelow_190ms GOAT",
           "rank": "member",
-          "last_updated": "2025-11-08T02:36:14.909611"
+          "last_updated": "2025-11-08T02:58:19.167977"
         },
         "1044342667091394580": {
           "total_tests": 5,
