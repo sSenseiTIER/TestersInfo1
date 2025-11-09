@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T01:45:07.667596",
+  "last_updated": "2025-11-09T16:39:53.663203",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -330,6 +330,14 @@
           "name": "SA/NA | FelixGodd",
           "rank": "member",
           "last_updated": "2025-11-05T02:19:48.720684"
+        },
+        "1350948799320690730": {
+          "total_tests": 1,
+          "last_test": "2025-11-09T16:39:53.663203",
+          "first_test": "2025-11-09T16:39:53.663203",
+          "name": "NA | Yumisaca_22",
+          "rank": "member",
+          "last_updated": "2025-11-09T16:39:53.663203"
         }
       }
     },
