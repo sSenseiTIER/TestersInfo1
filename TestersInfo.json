@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-15T10:50:27.434062",
+  "last_updated": "2025-11-15T15:10:44.600503",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -354,6 +354,14 @@
           "name": "NA | faabula",
           "rank": "member",
           "last_updated": "2025-11-13T03:19:52.974890"
+        },
+        "1241523227742830635": {
+          "total_tests": 1,
+          "last_test": "2025-11-15T15:10:44.600503",
+          "first_test": "2025-11-15T15:10:44.600503",
+          "name": "SA | iFortrex",
+          "rank": "member",
+          "last_updated": "2025-11-15T15:10:44.600503"
         }
       }
     },
