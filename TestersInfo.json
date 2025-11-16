@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16T00:32:10.991455",
+  "last_updated": "2025-11-16T00:32:21.301370",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -448,12 +448,12 @@
           "last_updated": "2025-11-15T20:22:27.682175"
         },
         "1029524653628198982": {
-          "total_tests": 1,
-          "last_test": "2025-11-16T00:10:07.365737",
+          "total_tests": 2,
+          "last_test": "2025-11-16T00:32:21.301370",
           "first_test": "2025-11-16T00:10:07.365737",
           "name": "SA | Estarosa_Mj",
           "rank": "verified",
-          "last_updated": "2025-11-16T00:10:07.365737"
+          "last_updated": "2025-11-16T00:32:21.301370"
         }
       }
     }
