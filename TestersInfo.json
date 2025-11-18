@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T03:33:19.817134",
+  "last_updated": "2025-11-18T14:54:34.111866",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -190,6 +190,14 @@
           "name": "EU I Jatho",
           "rank": "verified",
           "last_updated": "2025-11-16T19:09:01.258741"
+        },
+        "1346641268867858452": {
+          "total_tests": 1,
+          "last_test": "2025-11-18T14:54:34.111866",
+          "first_test": "2025-11-18T14:54:34.111866",
+          "name": "EU | Aqua",
+          "rank": "verified",
+          "last_updated": "2025-11-18T14:54:34.111866"
         }
       }
     },
