@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-18T00:48:45.670570",
+  "last_updated": "2025-11-18T01:05:21.342162",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -324,12 +324,12 @@
           "last_updated": "2025-11-08T02:58:19.167977"
         },
         "1044342667091394580": {
-          "total_tests": 14,
-          "last_test": "2025-11-18T00:48:45.670570",
+          "total_tests": 15,
+          "last_test": "2025-11-18T01:05:21.342162",
           "first_test": "2025-11-01T01:46:15.266327",
           "name": "NA | urExodo (No stray)",
           "rank": "member",
-          "last_updated": "2025-11-18T00:48:45.670570"
+          "last_updated": "2025-11-18T01:05:21.342162"
         },
         "1404224305373384765": {
           "total_tests": 3,
