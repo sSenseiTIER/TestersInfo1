@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22T01:57:22.994948",
+  "last_updated": "2025-11-22T02:48:42.888570",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -198,6 +198,14 @@
           "name": "EU | Aqua",
           "rank": "verified",
           "last_updated": "2025-11-18T15:54:43.710027"
+        },
+        "952028006614982706": {
+          "total_tests": 1,
+          "last_test": "2025-11-22T02:48:42.888570",
+          "first_test": "2025-11-22T02:48:42.888570",
+          "name": "NA | 6c6cu",
+          "rank": "verified",
+          "last_updated": "2025-11-22T02:48:42.888570"
         }
       }
     },
