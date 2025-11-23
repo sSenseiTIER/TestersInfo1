@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T14:59:49.524497",
+  "last_updated": "2025-11-23T15:09:44.582582",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -208,12 +208,12 @@
           "last_updated": "2025-11-22T02:48:42.888570"
         },
         "755600178584485990": {
-          "total_tests": 1,
-          "last_test": "2025-11-23T14:59:49.524497",
+          "total_tests": 2,
+          "last_test": "2025-11-23T15:09:44.582582",
           "first_test": "2025-11-23T14:59:49.524497",
           "name": "NA | MadeTHUNDER",
           "rank": "verified",
-          "last_updated": "2025-11-23T14:59:49.524497"
+          "last_updated": "2025-11-23T15:09:44.582582"
         }
       }
     },
