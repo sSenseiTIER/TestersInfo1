@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T20:16:45.416449",
+  "last_updated": "2025-11-25T21:01:29.411794",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -364,12 +364,12 @@
           "last_updated": "2025-11-05T02:19:48.720684"
         },
         "1350948799320690730": {
-          "total_tests": 1,
-          "last_test": "2025-11-09T16:39:53.663203",
+          "total_tests": 2,
+          "last_test": "2025-11-25T21:01:29.411794",
           "first_test": "2025-11-09T16:39:53.663203",
-          "name": "NA | Yumisaca_22",
+          "name": "NA | Yumisaca_22 ( only stray )",
           "rank": "member",
-          "last_updated": "2025-11-09T16:39:53.663203"
+          "last_updated": "2025-11-25T21:01:29.411794"
         },
         "778281413798526977": {
           "total_tests": 1,
