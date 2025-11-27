@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-27T16:50:41.849269",
+  "last_updated": "2025-11-27T23:50:07.580272",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -128,12 +128,12 @@
           "last_updated": "2025-11-27T03:26:08.495894"
         },
         "1259172426957197316": {
-          "total_tests": 5,
-          "last_test": "2025-11-18T03:33:19.817134",
+          "total_tests": 6,
+          "last_test": "2025-11-27T23:50:07.580272",
           "first_test": "2025-10-23T19:20:29.814485",
-          "name": "NA |  hku9",
+          "name": "papadetilw",
           "rank": "verified",
-          "last_updated": "2025-11-18T03:33:19.817134"
+          "last_updated": "2025-11-27T23:50:07.580272"
         },
         "1365371835423653958": {
           "total_tests": 2,
