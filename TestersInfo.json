@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-29T18:00:39.332176",
+  "last_updated": "2025-11-29T18:26:15.592030",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -192,12 +192,12 @@
           "last_updated": "2025-11-23T19:38:24.086319"
         },
         "1346641268867858452": {
-          "total_tests": 2,
-          "last_test": "2025-11-18T15:54:43.710027",
+          "total_tests": 3,
+          "last_test": "2025-11-29T18:26:15.592030",
           "first_test": "2025-11-18T14:54:34.111866",
-          "name": "EU | Aqua",
+          "name": "EU | Arruxx",
           "rank": "verified",
-          "last_updated": "2025-11-18T15:54:43.710027"
+          "last_updated": "2025-11-29T18:26:15.592030"
         },
         "952028006614982706": {
           "total_tests": 1,
