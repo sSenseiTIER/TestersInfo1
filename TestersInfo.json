@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T03:45:08.849427",
+  "last_updated": "2025-12-09T03:49:58.385367",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -244,12 +244,12 @@
           "last_updated": "2025-10-10T01:49:17.779227"
         },
         "1311116434604294244": {
-          "total_tests": 21,
-          "last_test": "2025-12-09T03:45:08.849427",
+          "total_tests": 20,
+          "last_test": "2025-12-08T19:18:57.708094",
           "first_test": "2025-10-04T23:25:57.435867",
           "name": "SA | Bigcuts",
           "rank": "verified",
-          "last_updated": "2025-12-09T03:45:08.849427"
+          "last_updated": "2025-12-08T19:18:57.708094"
         },
         "1418836026381832233": {
           "total_tests": 7,
@@ -434,6 +434,14 @@
           "name": "NA | Logsinho",
           "rank": "member",
           "last_updated": "2025-12-09T00:03:00.152470"
+        },
+        "1021609727953752074": {
+          "total_tests": 1,
+          "last_test": "2025-12-09T03:49:58.385367",
+          "first_test": "2025-12-09T03:49:58.385367",
+          "name": "SA | unycat",
+          "rank": "member",
+          "last_updated": "2025-12-09T03:49:58.385367"
         }
       }
     },
