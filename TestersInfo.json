@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T10:28:35.980356",
+  "last_updated": "2025-12-09T20:47:36.602509",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -112,12 +112,12 @@
           "last_updated": "2025-10-27T04:05:21.673175"
         },
         "753322380323192914": {
-          "total_tests": 3,
-          "last_test": "2025-11-29T20:11:13.295790",
+          "total_tests": 4,
+          "last_test": "2025-12-09T20:47:36.602509",
           "first_test": "2025-10-18T17:55:49.189971",
           "name": "juanoelnoob09 ADD TO ALL FIGHTS",
           "rank": "verified",
-          "last_updated": "2025-11-29T20:11:13.295790"
+          "last_updated": "2025-12-09T20:47:36.602509"
         },
         "1232054387564875791": {
           "total_tests": 32,
