@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T05:26:19.640387",
+  "last_updated": "2025-12-17T17:45:49.119130",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -460,12 +460,12 @@
           "last_updated": "2025-12-12T21:02:51.406304"
         },
         "1015388131643629668": {
-          "total_tests": 39,
-          "last_test": "2025-12-16T19:23:55.657516",
+          "total_tests": 40,
+          "last_test": "2025-12-17T17:45:49.119130",
           "first_test": "2025-12-13T04:05:34.519904",
           "name": "Keskloa",
-          "rank": "verified",
-          "last_updated": "2025-12-16T19:23:55.657516"
+          "rank": "senior",
+          "last_updated": "2025-12-17T17:45:49.119130"
         },
         "1189374904953491486": {
           "total_tests": 1,
