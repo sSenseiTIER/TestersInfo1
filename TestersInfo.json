@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-20T21:08:37.929463",
+  "last_updated": "2025-12-20T21:19:51.633543",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -56,12 +56,12 @@
           "last_updated": "2025-12-20T20:00:26.404483"
         },
         "858367935814828092": {
-          "total_tests": 6,
-          "last_test": "2025-12-20T21:08:37.929463",
+          "total_tests": 7,
+          "last_test": "2025-12-20T21:19:51.633543",
           "first_test": "2025-09-28T18:50:25.758712",
           "name": "EU | piero @ for test",
           "rank": "verified",
-          "last_updated": "2025-12-20T21:08:37.929463"
+          "last_updated": "2025-12-20T21:19:51.633543"
         },
         "958518412387180544": {
           "total_tests": 12,
