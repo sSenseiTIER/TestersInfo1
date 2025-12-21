@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-21T23:44:40.642204",
+  "last_updated": "2025-12-21T23:50:19.301484",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -200,12 +200,12 @@
           "last_updated": "2025-11-29T18:26:15.592030"
         },
         "952028006614982706": {
-          "total_tests": 12,
-          "last_test": "2025-12-21T22:50:21.263603",
+          "total_tests": 13,
+          "last_test": "2025-12-21T23:50:19.301484",
           "first_test": "2025-11-22T02:48:42.888570",
           "name": "@for test NA | zRuss_",
           "rank": "verified",
-          "last_updated": "2025-12-21T22:50:21.263603"
+          "last_updated": "2025-12-21T23:50:19.301484"
         },
         "755600178584485990": {
           "total_tests": 2,
