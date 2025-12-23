@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T01:26:49.999622",
+  "last_updated": "2025-12-23T02:13:18.172494",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -144,12 +144,12 @@
           "last_updated": "2025-10-25T01:52:45.266892"
         },
         "1093732777112907777": {
-          "total_tests": 1,
-          "last_test": "2025-10-26T03:43:23.314838",
+          "total_tests": 2,
+          "last_test": "2025-12-23T02:13:18.172494",
           "first_test": "2025-10-26T03:43:23.314838",
-          "name": "Nicow",
+          "name": "NA | Nicolacaca",
           "rank": "verified",
-          "last_updated": "2025-10-26T03:43:23.314838"
+          "last_updated": "2025-12-23T02:13:18.172494"
         },
         "796531919294169088": {
           "total_tests": 3,
