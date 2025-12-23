@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T02:13:18.172494",
+  "last_updated": "2025-12-23T03:56:01.346064",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -72,12 +72,12 @@
           "last_updated": "2025-11-08T19:18:38.246103"
         },
         "1078031020630224910": {
-          "total_tests": 39,
-          "last_test": "2025-12-17T02:30:17.812340",
+          "total_tests": 40,
+          "last_test": "2025-12-23T03:56:01.346064",
           "first_test": "2025-10-01T19:51:53.522413",
           "name": "NA | 7zql1k",
-          "rank": "screensharer",
-          "last_updated": "2025-12-17T02:30:17.812340"
+          "rank": "head",
+          "last_updated": "2025-12-23T03:56:01.346064"
         },
         "884104060431650856": {
           "total_tests": 1,
