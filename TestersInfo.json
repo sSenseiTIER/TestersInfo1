@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T07:20:44.349399",
+  "last_updated": "2025-12-24T08:51:51.592308",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -506,6 +506,14 @@
           "name": "NA | nevapray only stray",
           "rank": "member",
           "last_updated": "2025-12-24T01:30:52.605000"
+        },
+        "779829744085499905": {
+          "total_tests": 1,
+          "last_test": "2025-12-24T08:51:51.592308",
+          "first_test": "2025-12-24T08:51:51.592308",
+          "name": "NA | EzJxxxn",
+          "rank": "member",
+          "last_updated": "2025-12-24T08:51:51.592308"
         }
       }
     },
