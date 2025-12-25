@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T03:51:07.683880",
+  "last_updated": "2025-12-25T03:55:32.900056",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -216,12 +216,12 @@
           "last_updated": "2025-11-23T15:09:44.582582"
         },
         "991035096830181378": {
-          "total_tests": 1,
-          "last_test": "2025-12-15T07:30:56.641892",
+          "total_tests": 2,
+          "last_test": "2025-12-25T03:55:32.900056",
           "first_test": "2025-12-15T07:30:56.641892",
           "name": "SA | Killermidasyt",
           "rank": "verified",
-          "last_updated": "2025-12-15T07:30:56.641892"
+          "last_updated": "2025-12-25T03:55:32.900056"
         },
         "902216787557494834": {
           "total_tests": 2,
