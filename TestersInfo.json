@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-28T02:52:43.308670",
+  "last_updated": "2025-12-28T03:36:41.822876",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -500,12 +500,12 @@
           "last_updated": "2025-12-27T01:34:41.924342"
         },
         "1441189010671276185": {
-          "total_tests": 1,
-          "last_test": "2025-12-20T05:15:53.564446",
+          "total_tests": 2,
+          "last_test": "2025-12-28T03:36:41.822876",
           "first_test": "2025-12-20T05:15:53.564446",
-          "name": "NA - SA | LucasDaa",
+          "name": "NA - SA | Tmre",
           "rank": "member",
-          "last_updated": "2025-12-20T05:15:53.564446"
+          "last_updated": "2025-12-28T03:36:41.822876"
         },
         "1253944715968254043": {
           "total_tests": 2,
