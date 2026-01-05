@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05T21:51:07.192828",
+  "last_updated": "2026-01-05T21:52:23.154764",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -268,12 +268,12 @@
           "last_updated": "2025-12-12T15:54:49.709489"
         },
         "1311116434604294244": {
-          "total_tests": 39,
-          "last_test": "2026-01-05T21:51:07.192828",
+          "total_tests": 40,
+          "last_test": "2026-01-05T21:52:23.154764",
           "first_test": "2025-10-04T23:25:57.435867",
           "name": "SA | Bigcuts",
-          "rank": "verified",
-          "last_updated": "2026-01-05T21:51:07.192828"
+          "rank": "senior",
+          "last_updated": "2026-01-05T21:52:23.154764"
         },
         "1418836026381832233": {
           "total_tests": 7,
