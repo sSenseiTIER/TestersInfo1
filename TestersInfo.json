@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T01:02:27.752591",
+  "last_updated": "2026-01-07T01:05:40.229429",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -532,12 +532,12 @@
           "last_updated": "2026-01-03T16:44:45.489252"
         },
         "1457554149313871912": {
-          "total_tests": 1,
-          "last_test": "2026-01-07T00:37:42.159909",
+          "total_tests": 2,
+          "last_test": "2026-01-07T01:05:40.229429",
           "first_test": "2026-01-07T00:37:42.159909",
-          "name": "SA-NA | Lukinhas",
+          "name": "SA-NA | DrakePoshon_",
           "rank": "member",
-          "last_updated": "2026-01-07T00:37:42.159909"
+          "last_updated": "2026-01-07T01:05:40.229429"
         }
       }
     },
