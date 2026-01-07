@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T14:50:25.639021",
+  "last_updated": "2026-01-07T14:53:44.993398",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -192,12 +192,12 @@
           "last_updated": "2025-12-22T16:00:06.283616"
         },
         "1346641268867858452": {
-          "total_tests": 10,
-          "last_test": "2026-01-06T17:22:01.625730",
+          "total_tests": 11,
+          "last_test": "2026-01-07T14:53:44.993398",
           "first_test": "2025-11-18T14:54:34.111866",
-          "name": "EU | Arruxx",
+          "name": "EU | Arruxx @ for test",
           "rank": "verified",
-          "last_updated": "2026-01-06T17:22:01.625730"
+          "last_updated": "2026-01-07T14:53:44.993398"
         },
         "952028006614982706": {
           "total_tests": 13,
