@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T00:28:44.051105",
+  "last_updated": "2026-01-07T00:37:42.159909",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -530,6 +530,14 @@
           "name": "Admin | zNotoco",
           "rank": "member",
           "last_updated": "2026-01-03T16:44:45.489252"
+        },
+        "1457554149313871912": {
+          "total_tests": 1,
+          "last_test": "2026-01-07T00:37:42.159909",
+          "first_test": "2026-01-07T00:37:42.159909",
+          "name": "SA-NA | Lukinhas",
+          "rank": "member",
+          "last_updated": "2026-01-07T00:37:42.159909"
         }
       }
     },
