@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T20:34:43.476425",
+  "last_updated": "2026-01-23T20:50:34.342595",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -232,12 +232,12 @@
           "last_updated": "2026-01-03T23:06:57.873930"
         },
         "1391240336122056847": {
-          "total_tests": 21,
-          "last_test": "2026-01-18T22:33:47.292191",
+          "total_tests": 22,
+          "last_test": "2026-01-23T20:50:34.342595",
           "first_test": "2025-12-25T22:57:20.102277",
-          "name": "zSxvn",
+          "name": "KesulolLover",
           "rank": "verified",
-          "last_updated": "2026-01-18T22:33:47.292191"
+          "last_updated": "2026-01-23T20:50:34.342595"
         }
       }
     },
