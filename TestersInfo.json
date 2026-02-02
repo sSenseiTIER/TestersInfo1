@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T23:48:24.885858",
+  "last_updated": "2026-02-02T01:04:59.083323",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -96,12 +96,12 @@
           "last_updated": "2025-10-25T18:24:59.515857"
         },
         "757971997354623127": {
-          "total_tests": 109,
-          "last_test": "2026-01-18T18:15:55.726524",
+          "total_tests": 110,
+          "last_test": "2026-02-02T01:04:59.083323",
           "first_test": "2025-10-07T01:46:30.240548",
-          "name": "para cuando promote | no @",
+          "name": "para cuando promote",
           "rank": "head",
-          "last_updated": "2026-01-18T18:15:55.726524"
+          "last_updated": "2026-02-02T01:04:59.083323"
         },
         "1008163311306670112": {
           "total_tests": 10,
