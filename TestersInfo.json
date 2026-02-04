@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T23:55:02.733781",
+  "last_updated": "2026-02-04T01:18:37.988171",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -560,12 +560,12 @@
     "Sword": {
       "testers": {
         "823659261183262730": {
-          "total_tests": 127,
-          "last_test": "2026-02-01T18:03:47.541100",
+          "total_tests": 128,
+          "last_test": "2026-02-04T01:18:37.988171",
           "first_test": "2025-09-18T22:01:32.870141",
           "name": "Sensei",
-          "rank": "verified",
-          "last_updated": "2026-02-01T18:03:47.541100"
+          "rank": "head",
+          "last_updated": "2026-02-04T01:18:37.988171"
         },
         "1199902619234209832": {
           "total_tests": 9,
