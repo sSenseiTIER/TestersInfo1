@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T19:03:00.210244",
+  "last_updated": "2026-02-06T22:00:59.835657",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -246,6 +246,14 @@
           "name": "EU/NA | WRes_ @ to test",
           "rank": "verified",
           "last_updated": "2026-02-05T17:08:13.261095"
+        },
+        "1307038183405522954": {
+          "total_tests": 1,
+          "last_test": "2026-02-06T22:00:59.835657",
+          "first_test": "2026-02-06T22:00:59.835657",
+          "name": "𝓣𝓸𝓻𝓽𝓾𝓰𝓪",
+          "rank": "verified",
+          "last_updated": "2026-02-06T22:00:59.835657"
         }
       }
     },
