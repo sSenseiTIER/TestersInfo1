@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:54:14.723122",
+  "last_updated": "2026-02-07T06:09:44.294065",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -580,12 +580,12 @@
           "last_updated": "2026-02-07T05:31:42.263312"
         },
         "1267264688832385136": {
-          "total_tests": 1,
-          "last_test": "2026-02-07T05:50:13.541359",
+          "total_tests": 2,
+          "last_test": "2026-02-07T06:09:44.294065",
           "first_test": "2026-02-07T05:50:13.541359",
-          "name": "SA | pikachu_alfaa",
+          "name": "SA/NA | pikachu_alfaa",
           "rank": "member",
-          "last_updated": "2026-02-07T05:50:13.541359"
+          "last_updated": "2026-02-07T06:09:44.294065"
         }
       }
     },
