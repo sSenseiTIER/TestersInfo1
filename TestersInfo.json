@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T04:09:55.619439",
+  "last_updated": "2026-02-07T04:16:51.079113",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -484,12 +484,12 @@
           "last_updated": "2025-12-17T23:15:23.648442"
         },
         "748758994423906354": {
-          "total_tests": 61,
-          "last_test": "2026-02-07T04:03:39.404319",
+          "total_tests": 62,
+          "last_test": "2026-02-07T04:16:51.079113",
           "first_test": "2025-12-12T21:02:51.406304",
           "name": "NA / EU | oNxaiety",
           "rank": "screensharer",
-          "last_updated": "2026-02-07T04:03:39.404319"
+          "last_updated": "2026-02-07T04:16:51.079113"
         },
         "1015388131643629668": {
           "total_tests": 63,
