@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T05:40:32.258420",
+  "last_updated": "2026-02-07T05:50:13.541359",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -578,6 +578,14 @@
           "name": "NA | Donluchooo",
           "rank": "member",
           "last_updated": "2026-02-07T05:31:42.263312"
+        },
+        "1267264688832385136": {
+          "total_tests": 1,
+          "last_test": "2026-02-07T05:50:13.541359",
+          "first_test": "2026-02-07T05:50:13.541359",
+          "name": "SA | pikachu_alfaa",
+          "rank": "member",
+          "last_updated": "2026-02-07T05:50:13.541359"
         }
       }
     },
