@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T20:24:49.979530",
+  "last_updated": "2026-02-08T21:23:52.379886",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -240,12 +240,12 @@
           "last_updated": "2026-01-31T23:50:38.255829"
         },
         "857272583652769833": {
-          "total_tests": 6,
-          "last_test": "2026-02-05T17:08:13.261095",
+          "total_tests": 7,
+          "last_test": "2026-02-08T21:23:52.379886",
           "first_test": "2026-02-04T19:17:49.366910",
           "name": "EU/NA | WRes_ @ to test",
           "rank": "verified",
-          "last_updated": "2026-02-05T17:08:13.261095"
+          "last_updated": "2026-02-08T21:23:52.379886"
         },
         "1307038183405522954": {
           "total_tests": 4,
