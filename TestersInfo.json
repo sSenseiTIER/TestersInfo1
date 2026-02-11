@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T04:55:15.112738",
+  "last_updated": "2026-02-11T18:21:00.410883",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -718,6 +718,14 @@
           "name": "SA | zNoToco",
           "rank": "verified",
           "last_updated": "2026-02-11T03:16:41.499493"
+        },
+        "1008921043479568424": {
+          "total_tests": 1,
+          "last_test": "2026-02-11T18:21:00.410883",
+          "first_test": "2026-02-11T18:21:00.410883",
+          "name": "NA | Nesquik",
+          "rank": "verified",
+          "last_updated": "2026-02-11T18:21:00.410883"
         }
       }
     }
