@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T03:16:24.537249",
+  "last_updated": "2026-02-11T03:16:41.499493",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -160,12 +160,12 @@
           "last_updated": "2025-12-31T01:11:29.354625"
         },
         "936042255599415307": {
-          "total_tests": 142,
-          "last_test": "2026-02-11T03:16:24.537249",
+          "total_tests": 141,
+          "last_test": "2026-02-09T23:57:12.644364",
           "first_test": "2025-10-30T00:19:17.857381",
           "name": "Stiffy",
           "rank": "head",
-          "last_updated": "2026-02-11T03:16:24.537249"
+          "last_updated": "2026-02-09T23:57:12.644364"
         },
         "823659261183262730": {
           "total_tests": 4,
@@ -710,6 +710,14 @@
           "name": "Regulator | donluchooo",
           "rank": "verified",
           "last_updated": "2026-02-11T03:01:35.858117"
+        },
+        "1310400701674815550": {
+          "total_tests": 1,
+          "last_test": "2026-02-11T03:16:41.499493",
+          "first_test": "2026-02-11T03:16:41.499493",
+          "name": "SA | zNoToco",
+          "rank": "verified",
+          "last_updated": "2026-02-11T03:16:41.499493"
         }
       }
     }
