@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T20:26:28.920052",
+  "last_updated": "2026-02-14T21:56:58.458427",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -516,12 +516,12 @@
           "last_updated": "2026-01-25T17:38:39.969645"
         },
         "712999145815801912": {
-          "total_tests": 72,
-          "last_test": "2026-02-14T06:22:10.345523",
+          "total_tests": 73,
+          "last_test": "2026-02-14T21:56:58.458427",
           "first_test": "2025-12-16T03:08:29.350942",
           "name": "NA | Mod | Sypruk",
           "rank": "screensharer",
-          "last_updated": "2026-02-14T06:22:10.345523"
+          "last_updated": "2026-02-14T21:56:58.458427"
         },
         "1441189010671276185": {
           "total_tests": 2,
