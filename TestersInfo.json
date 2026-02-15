@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T04:00:14.087392",
+  "last_updated": "2026-02-15T04:09:37.868160",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -548,12 +548,12 @@
           "last_updated": "2025-12-24T08:51:51.592308"
         },
         "1310400701674815550": {
-          "total_tests": 14,
-          "last_test": "2026-02-14T06:18:18.991400",
+          "total_tests": 15,
+          "last_test": "2026-02-15T04:09:37.868160",
           "first_test": "2026-01-03T16:44:45.489252",
           "name": "SA/NA | Regulator | zNotoco_",
           "rank": "member",
-          "last_updated": "2026-02-14T06:18:18.991400"
+          "last_updated": "2026-02-15T04:09:37.868160"
         },
         "1457554149313871912": {
           "total_tests": 10,
