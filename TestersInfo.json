@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T02:56:04.602174",
+  "last_updated": "2026-02-16T03:18:06.434555",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -548,12 +548,12 @@
           "last_updated": "2025-12-24T08:51:51.592308"
         },
         "1310400701674815550": {
-          "total_tests": 21,
-          "last_test": "2026-02-16T02:56:04.602174",
+          "total_tests": 22,
+          "last_test": "2026-02-16T03:18:06.434555",
           "first_test": "2026-01-03T16:44:45.489252",
           "name": "SA/NA | Admin | zNotoco_",
           "rank": "verified",
-          "last_updated": "2026-02-16T02:56:04.602174"
+          "last_updated": "2026-02-16T03:18:06.434555"
         },
         "1457554149313871912": {
           "total_tests": 10,
