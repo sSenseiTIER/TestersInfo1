@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T05:39:31.971730",
+  "last_updated": "2026-02-21T06:14:12.782545",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -128,12 +128,12 @@
           "last_updated": "2026-02-17T02:51:26.899336"
         },
         "1259172426957197316": {
-          "total_tests": 7,
-          "last_test": "2026-02-20T02:10:08.640069",
+          "total_tests": 8,
+          "last_test": "2026-02-21T06:14:12.782545",
           "first_test": "2025-10-23T19:20:29.814485",
           "name": "Peleó contra todos agregenme",
           "rank": "verified",
-          "last_updated": "2026-02-20T02:10:08.640069"
+          "last_updated": "2026-02-21T06:14:12.782545"
         },
         "1365371835423653958": {
           "total_tests": 2,
