@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T14:30:28.394809",
+  "last_updated": "2026-02-22T15:45:23.627752",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -500,12 +500,12 @@
           "last_updated": "2026-02-21T23:04:20.357757"
         },
         "1015388131643629668": {
-          "total_tests": 92,
-          "last_test": "2026-02-22T00:13:31.553910",
+          "total_tests": 93,
+          "last_test": "2026-02-22T15:45:23.627752",
           "first_test": "2025-12-13T04:05:34.519904",
           "name": "keskloa - dm only for test",
           "rank": "head",
-          "last_updated": "2026-02-22T00:13:31.553910"
+          "last_updated": "2026-02-22T15:45:23.627752"
         },
         "1189374904953491486": {
           "total_tests": 8,
