@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T02:35:57.379874",
+  "last_updated": "2026-02-23T02:48:44.845521",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -572,12 +572,12 @@
           "last_updated": "2026-02-06T07:18:38.182693"
         },
         "746838348450103317": {
-          "total_tests": 19,
-          "last_test": "2026-02-23T02:14:07.211756",
+          "total_tests": 20,
+          "last_test": "2026-02-23T02:48:44.845521",
           "first_test": "2026-01-24T02:46:08.249636",
           "name": "SA - NA | iPrwnxe",
-          "rank": "member",
-          "last_updated": "2026-02-23T02:14:07.211756"
+          "rank": "verified",
+          "last_updated": "2026-02-23T02:48:44.845521"
         },
         "1151676284238315631": {
           "total_tests": 17,
