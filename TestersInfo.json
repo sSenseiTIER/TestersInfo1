@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T04:32:07.990075",
+  "last_updated": "2026-02-27T04:33:06.371625",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -272,12 +272,12 @@
           "last_updated": "2026-02-27T02:17:24.209667"
         },
         "1285457549520535563": {
-          "total_tests": 2,
-          "last_test": "2026-02-27T04:32:07.990075",
+          "total_tests": 3,
+          "last_test": "2026-02-27T04:33:06.371625",
           "first_test": "2026-02-27T03:09:05.542622",
           "name": "NAE | OnlyMiamiRanked",
           "rank": "verified",
-          "last_updated": "2026-02-27T04:32:07.990075"
+          "last_updated": "2026-02-27T04:33:06.371625"
         }
       }
     },
