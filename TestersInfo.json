@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T02:39:59.880426",
+  "last_updated": "2026-02-27T03:09:05.542622",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -270,6 +270,14 @@
           "name": "NA | Yatelaestampo_ @ help",
           "rank": "verified",
           "last_updated": "2026-02-27T02:17:24.209667"
+        },
+        "1285457549520535563": {
+          "total_tests": 1,
+          "last_test": "2026-02-27T03:09:05.542622",
+          "first_test": "2026-02-27T03:09:05.542622",
+          "name": "NAE | OnlyMiamiRanked",
+          "rank": "verified",
+          "last_updated": "2026-02-27T03:09:05.542622"
         }
       }
     },
