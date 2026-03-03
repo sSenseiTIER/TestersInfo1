@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T20:52:17.901543",
+  "last_updated": "2026-03-03T20:59:14.707887",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -293,11 +293,11 @@
       "testers": {
         "607752834540371991": {
           "total_tests": 27,
-          "last_test": "2026-03-03T20:52:17.901543",
+          "last_test": "2026-03-03T20:59:14.707887",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "FEDEWAX[TODOS LOS SV]",
           "rank": "verified",
-          "last_updated": "2026-03-03T20:52:17.901543"
+          "last_updated": "2026-03-03T20:59:14.707887"
         },
         "620119197216669706": {
           "total_tests": 31,
