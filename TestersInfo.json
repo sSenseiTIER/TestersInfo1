@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T00:35:30.253212",
+  "last_updated": "2026-03-05T00:48:55.952084",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -292,12 +292,12 @@
     "netheritepot": {
       "testers": {
         "607752834540371991": {
-          "total_tests": 28,
-          "last_test": "2026-03-05T00:35:30.253212",
+          "total_tests": 29,
+          "last_test": "2026-03-05T00:48:55.952084",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "FEDEWAX[TODOS LOS SV]",
           "rank": "verified",
-          "last_updated": "2026-03-05T00:35:30.253212"
+          "last_updated": "2026-03-05T00:48:55.952084"
         },
         "620119197216669706": {
           "total_tests": 31,
