@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T23:44:55.799071",
+  "last_updated": "2026-03-06T23:58:35.564685",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -636,12 +636,12 @@
           "last_updated": "2026-03-06T01:27:25.892364"
         },
         "1175550997968457741": {
-          "total_tests": 2,
-          "last_test": "2026-03-06T23:44:55.799071",
+          "total_tests": 3,
+          "last_test": "2026-03-06T23:58:35.564685",
           "first_test": "2026-03-06T23:29:29.336071",
           "name": "NA | HolaRegez No stray",
           "rank": "member",
-          "last_updated": "2026-03-06T23:44:55.799071"
+          "last_updated": "2026-03-06T23:58:35.564685"
         }
       }
     },
