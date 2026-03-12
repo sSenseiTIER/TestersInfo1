@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T03:30:44.613808",
+  "last_updated": "2026-03-12T03:34:46.032129",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -292,12 +292,12 @@
     "netheritepot": {
       "testers": {
         "607752834540371991": {
-          "total_tests": 31,
-          "last_test": "2026-03-12T03:30:44.613808",
+          "total_tests": 30,
+          "last_test": "2026-03-12T02:59:46.700774",
           "first_test": "2025-09-25T07:10:01.743167",
           "name": "FEDEWAX[TODOS LOS SV]",
           "rank": "verified",
-          "last_updated": "2026-03-12T03:30:44.613808"
+          "last_updated": "2026-03-12T02:59:46.700774"
         },
         "620119197216669706": {
           "total_tests": 34,
@@ -524,12 +524,12 @@
           "last_updated": "2026-02-28T15:04:06.876153"
         },
         "1015388131643629668": {
-          "total_tests": 133,
-          "last_test": "2026-03-10T17:38:55.737380",
+          "total_tests": 134,
+          "last_test": "2026-03-12T03:34:46.032129",
           "first_test": "2025-12-13T04:05:34.519904",
           "name": "Helper | Keskloa",
           "rank": "head",
-          "last_updated": "2026-03-10T17:38:55.737380"
+          "last_updated": "2026-03-12T03:34:46.032129"
         },
         "1189374904953491486": {
           "total_tests": 8,
