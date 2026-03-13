@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T00:08:37.635333",
+  "last_updated": "2026-03-13T01:05:45.777224",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -612,12 +612,12 @@
           "last_updated": "2026-03-12T05:21:39.404476"
         },
         "1151676284238315631": {
-          "total_tests": 21,
-          "last_test": "2026-03-07T19:47:10.027594",
+          "total_tests": 22,
+          "last_test": "2026-03-13T01:05:45.777224",
           "first_test": "2026-02-07T04:43:34.807314",
-          "name": "donluchooo | DM FOR TEST",
+          "name": "donluchooo | NA/EU",
           "rank": "verified",
-          "last_updated": "2026-03-07T19:47:10.027594"
+          "last_updated": "2026-03-13T01:05:45.777224"
         },
         "1267264688832385136": {
           "total_tests": 2,
