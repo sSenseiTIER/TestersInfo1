@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T23:42:55.841693",
+  "last_updated": "2026-03-31T23:45:05.640437",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -232,12 +232,12 @@
           "last_updated": "2026-03-15T21:31:24.185528"
         },
         "1391240336122056847": {
-          "total_tests": 30,
-          "last_test": "2026-01-31T23:50:38.255829",
+          "total_tests": 31,
+          "last_test": "2026-03-31T23:45:05.640437",
           "first_test": "2025-12-25T22:57:20.102277",
-          "name": "zSxvn",
+          "name": "NA | zSxvn",
           "rank": "verified",
-          "last_updated": "2026-01-31T23:50:38.255829"
+          "last_updated": "2026-03-31T23:45:05.640437"
         },
         "857272583652769833": {
           "total_tests": 10,
