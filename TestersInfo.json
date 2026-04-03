@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T15:51:54.264282",
+  "last_updated": "2026-04-03T01:14:26.793349",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -650,6 +650,14 @@
           "name": "NA | HolaRegez No stray",
           "rank": "member",
           "last_updated": "2026-03-31T23:42:55.841693"
+        },
+        "1197973743377584169": {
+          "total_tests": 1,
+          "last_test": "2026-04-03T01:14:26.793349",
+          "first_test": "2026-04-03T01:14:26.793349",
+          "name": "svvxbne / OnlyStray",
+          "rank": "member",
+          "last_updated": "2026-04-03T01:14:26.793349"
         }
       }
     },
