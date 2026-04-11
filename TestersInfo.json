@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T01:47:08.346098",
+  "last_updated": "2026-04-11T01:59:06.455457",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -304,12 +304,12 @@
           "last_updated": "2026-04-08T03:24:24.729845"
         },
         "704564254463885373": {
-          "total_tests": 2,
-          "last_test": "2026-04-11T01:47:08.346098",
+          "total_tests": 3,
+          "last_test": "2026-04-11T01:59:06.455457",
           "first_test": "2026-04-11T01:30:40.535366",
           "name": "Daniel Perez",
           "rank": "verified",
-          "last_updated": "2026-04-11T01:47:08.346098"
+          "last_updated": "2026-04-11T01:59:06.455457"
         }
       }
     },
