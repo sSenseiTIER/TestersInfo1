@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T16:18:32.361263",
+  "last_updated": "2026-04-11T01:30:40.535366",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -302,6 +302,14 @@
           "name": "SetaKriss",
           "rank": "verified",
           "last_updated": "2026-04-08T03:24:24.729845"
+        },
+        "704564254463885373": {
+          "total_tests": 1,
+          "last_test": "2026-04-11T01:30:40.535366",
+          "first_test": "2026-04-11T01:30:40.535366",
+          "name": "Daniel Perez",
+          "rank": "verified",
+          "last_updated": "2026-04-11T01:30:40.535366"
         }
       }
     },
