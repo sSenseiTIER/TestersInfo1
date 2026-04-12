@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:23:56.141238",
+  "last_updated": "2026-04-12T17:37:56.326851",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -556,12 +556,12 @@
           "last_updated": "2026-04-12T09:23:56.141238"
         },
         "1015388131643629668": {
-          "total_tests": 162,
-          "last_test": "2026-04-11T20:00:17.263654",
+          "total_tests": 163,
+          "last_test": "2026-04-12T17:37:56.326851",
           "first_test": "2025-12-13T04:05:34.519904",
-          "name": "Regulator | Keskloa",
+          "name": "Admin | Keskloa",
           "rank": "head",
-          "last_updated": "2026-04-11T20:00:17.263654"
+          "last_updated": "2026-04-12T17:37:56.326851"
         },
         "1189374904953491486": {
           "total_tests": 8,
