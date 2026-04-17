@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T18:43:00.682995",
+  "last_updated": "2026-04-17T22:35:17.716579",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -676,12 +676,12 @@
           "last_updated": "2026-03-31T23:42:55.841693"
         },
         "1197973743377584169": {
-          "total_tests": 10,
-          "last_test": "2026-04-04T03:45:41.392104",
+          "total_tests": 11,
+          "last_test": "2026-04-17T22:35:17.716579",
           "first_test": "2026-04-03T01:14:26.793349",
-          "name": "svvxbne / OnlyStray",
+          "name": "svvxbne /Add evals Lt3",
           "rank": "member",
-          "last_updated": "2026-04-04T03:45:41.392104"
+          "last_updated": "2026-04-17T22:35:17.716579"
         }
       }
     },
