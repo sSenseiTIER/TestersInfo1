@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T14:02:20.447948",
+  "last_updated": "2026-04-19T20:30:39.952602",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -846,6 +846,14 @@
           "name": "dm 4 ign wagger",
           "rank": "verified",
           "last_updated": "2026-03-23T04:32:30.070295"
+        },
+        "1393977541051813970": {
+          "total_tests": 1,
+          "last_test": "2026-04-19T20:30:39.952602",
+          "first_test": "2026-04-19T20:30:39.952602",
+          "name": "PXOJA",
+          "rank": "member",
+          "last_updated": "2026-04-19T20:30:39.952602"
         }
       }
     }
