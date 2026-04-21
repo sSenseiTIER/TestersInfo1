@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T03:00:57.576192",
+  "last_updated": "2026-04-21T03:55:47.874158",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -628,12 +628,12 @@
           "last_updated": "2026-02-24T06:17:32.440296"
         },
         "746838348450103317": {
-          "total_tests": 37,
-          "last_test": "2026-04-06T02:33:19.643735",
+          "total_tests": 38,
+          "last_test": "2026-04-21T03:55:47.874158",
           "first_test": "2026-01-24T02:46:08.249636",
-          "name": "SA - NA | iPrwnce",
+          "name": "SA - NA | iPrwnce No Stray",
           "rank": "verified",
-          "last_updated": "2026-04-06T02:33:19.643735"
+          "last_updated": "2026-04-21T03:55:47.874158"
         },
         "1151676284238315631": {
           "total_tests": 22,
