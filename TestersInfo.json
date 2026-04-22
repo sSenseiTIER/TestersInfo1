@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T03:55:47.874158",
+  "last_updated": "2026-04-22T19:03:36.390416",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -854,6 +854,14 @@
           "name": "PXOJA",
           "rank": "member",
           "last_updated": "2026-04-19T20:31:33.366691"
+        },
+        "1330920293325344821": {
+          "total_tests": 1,
+          "last_test": "2026-04-22T19:03:36.390416",
+          "first_test": "2026-04-22T19:03:36.390416",
+          "name": "EU | ColdyLokuras",
+          "rank": "verified",
+          "last_updated": "2026-04-22T19:03:36.390416"
         }
       }
     }
