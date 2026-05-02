@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T17:35:29.482220",
+  "last_updated": "2026-05-02T20:07:37.316134",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -628,12 +628,12 @@
           "last_updated": "2026-02-24T06:17:32.440296"
         },
         "746838348450103317": {
-          "total_tests": 41,
-          "last_test": "2026-05-01T00:37:18.527080",
+          "total_tests": 42,
+          "last_test": "2026-05-02T20:07:37.316134",
           "first_test": "2026-01-24T02:46:08.249636",
           "name": "SA - NA | iPrwnce No Stray",
           "rank": "senior",
-          "last_updated": "2026-05-01T00:37:18.527080"
+          "last_updated": "2026-05-02T20:07:37.316134"
         },
         "1151676284238315631": {
           "total_tests": 22,
