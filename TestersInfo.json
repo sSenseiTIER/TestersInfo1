@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T03:56:17.181935",
+  "last_updated": "2026-05-19T04:11:04.554348",
   "version": "2.0",
   "modalities": {
     "sword": {
@@ -676,12 +676,12 @@
           "last_updated": "2026-03-31T23:42:55.841693"
         },
         "1197973743377584169": {
-          "total_tests": 34,
-          "last_test": "2026-05-19T03:56:17.181935",
+          "total_tests": 35,
+          "last_test": "2026-05-19T04:11:04.554348",
           "first_test": "2026-04-03T01:14:26.793349",
           "name": "svvxbne /Add evals Lt3",
           "rank": "verified",
-          "last_updated": "2026-05-19T03:56:17.181935"
+          "last_updated": "2026-05-19T04:11:04.554348"
         },
         "1367909617039970406": {
           "total_tests": 2,
